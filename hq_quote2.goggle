@@ -1,0 +1,8 @@
+! name: probe hq quote2
+! description: benign
+! public: true
+! author: probe
+! avatar: #9244e0
+! homepage: https://example.com/?a="><img src=x onerror=alert(1)>
+
+$discard$
