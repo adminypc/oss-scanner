@@ -1,0 +1,7 @@
+! name: probe named
+! description: benign probe
+! public: true
+! author: probe
+! avatar: darkgreen
+
+$discard$
