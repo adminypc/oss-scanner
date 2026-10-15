@@ -1,0 +1,8 @@
+! name: probe home2
+! description: benign
+! public: true
+! author: probe
+! avatar: #9244e0
+! homepage: javascript:alert(document.domain)
+
+$discard$
