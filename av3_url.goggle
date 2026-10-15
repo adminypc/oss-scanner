@@ -1,0 +1,7 @@
+! name: probe url
+! description: benign probe
+! public: true
+! author: probe
+! avatar: https://example.com/a.png
+
+$discard$
