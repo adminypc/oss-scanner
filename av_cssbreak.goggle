@@ -1,0 +1,7 @@
+! name: probe cssbreak
+! description: benign probe
+! public: true
+! author: probe
+! avatar: red;background-image:url(https://work-1-ixfkiucmxwcyvzvk.prod-runtime.all-hands.dev/cssleak)
+
+$discard$
