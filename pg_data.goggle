@@ -1,0 +1,8 @@
+! name: probe hp data
+! description: benign
+! public: true
+! author: probe
+! avatar: #9244e0
+! homepage: data:text/html,<script>alert(document.domain)</script>
+
+$discard$
