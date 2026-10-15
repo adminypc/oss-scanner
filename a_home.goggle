@@ -1,0 +1,7 @@
+! name: probe auth home
+! description: benign
+! public: true
+! author: <a href=javascript:alert(1)>x</a>
+! avatar: #9244e0
+
+$discard$
