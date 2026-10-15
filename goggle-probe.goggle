@@ -1,0 +1,7 @@
+! name: </script><img src=x onerror=alert(document.domain)>
+! description: benign probe description
+! public: true
+! author: probe
+! avatar: #9244e0
+
+$discard$
