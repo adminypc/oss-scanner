@@ -1,0 +1,7 @@
+! name: probe rgb
+! description: benign probe
+! public: true
+! author: probe
+! avatar: rgb(1,2,3)
+
+$discard$
